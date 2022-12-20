@@ -13,4 +13,4 @@ This is a basic exercise to develop a image classifier with Tensorflow. It can b
 The dataset can be downloaded from https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/code?datasetId=2702329&sortBy=voteCount
 
 To summarize the result, we were able to develop a model that has made a quite good prediction with the test dataset. The accuracy score was 92%. 
-We first experimented with one model, different pretrained models can be used to make further experiments
+We first experimented with our fine-tuned pretrained model of InceptionResnet, different pretrained models can be used to make further experiments
