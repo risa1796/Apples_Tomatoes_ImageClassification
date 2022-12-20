@@ -16,4 +16,4 @@ To summarize the result, we were able to develop a model that has made a quite g
 We first experimented with our fine-tuned pretrained model of InceptionResnet, different pretrained models can be used to make further experiments
 
 
-> correction => input shape is 3 dimensional, meaning -> 299*299*3.  3 is because the image is a RGB color image
+> correction => input shape is 3 dimensional, meaning -> 299x299x3.  3 is because the image is a RGB color image
