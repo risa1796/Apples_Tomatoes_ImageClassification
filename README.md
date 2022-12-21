@@ -1,6 +1,6 @@
 # Apples_Tomatoes_ImageClassification
 
-Apple or Tomato? Binary Image Classification
+Apple or Tomato? Binary Image Classification [TESNORFLOW]
 
 In this project, we will make a binary classification model that can identify whether it is an apple or a tomato in the image.
 Apples and tomatoes share some common characteristics such as the round shape or the red color.
